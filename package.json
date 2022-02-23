@@ -1,0 +1,25 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@react-dnd/invariant": "3.0.0",
+    "@types/react": "16.8.2",
+    "@types/react-dom": "16.8.0",
+    "domain": "0.0.1",
+    "events": "^3.3.0",
+    "react": "16.8.0",
+    "react-dnd": "10.0.2",
+    "react-dnd-html5-backend": "15.1.2",
+    "react-dom": "16.8.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "latest"
+  }
+}
